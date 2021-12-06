@@ -1,6 +1,4 @@
-[![N|Solid](https://drive.google.com/file/d/1BMhrUT_LNmF1XgILj-c1XBA2wacXGd5T/view?usp=sharing)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![e-flashcards](https://user-images.githubusercontent.com/71741007/144873084-72c74aaa-142f-45f7-b414-55fd0f885dbe.png)
 
 e-Flashcards is an application, which helps to build an electronic questionnaire and play with it
 
